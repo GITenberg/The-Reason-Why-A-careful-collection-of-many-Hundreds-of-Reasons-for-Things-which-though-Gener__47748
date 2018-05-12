@@ -1,4 +1,8 @@
 _repo: The-Reason-Why-A-careful-collection-of-many-Hundreds-of-Reasons-for-Things-which-though-Gener__47748
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47748-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47748#The-Reason-Why-A-careful-collection-of-many-Hundreds-of-Reasons-for-Things-which-though-Gener_
 gutenberg_issued: '2014-12-23'
 gutenberg_type: Text
 identifiers:
